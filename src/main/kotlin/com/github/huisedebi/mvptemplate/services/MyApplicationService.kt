@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.huisedebi.mvptemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.huisedebi.mvptemplate.MyBundle
 
 class MyApplicationService {
 
